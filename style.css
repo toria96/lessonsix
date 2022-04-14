@@ -1,0 +1,18 @@
+.wrap {
+    margin: 50px;
+    border: 3px solid red;
+    min-height: 10px;
+
+}
+
+.one {
+    width: 200px;
+    height: 200px;
+    background: orange;
+    float: right;
+}
+.two {
+    width: 220px;
+    height: 250px;
+    background:red;
+}
