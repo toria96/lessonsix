@@ -9,10 +9,18 @@
     width: 200px;
     height: 200px;
     background: orange;
-    float: right;
+    float: left;
+
 }
+
 .two {
     width: 220px;
-    height: 250px;
+    height: 220px;
     background:red;
+    float: left;
+
+}
+
+.clearfix {
+   clear: both;
 }
